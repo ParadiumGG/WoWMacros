@@ -5,3 +5,5 @@ You can change the time down to 5 seconds which you change the
 #showtooltip Pull Mobs
 /countdown 10
 ```
+
+Checkout [Roll Check](RollCheck.md)
